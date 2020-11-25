@@ -3,7 +3,7 @@
 #include <Windows.h>
 #include "curses.h"
 
-#pragma comment (lib, "pdcurses") 
+#pragma comment (lib, "pdcurses")
 
 #define WIDTH 120
 #define HEIGHT 17
